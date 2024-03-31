@@ -30,7 +30,6 @@
 
 ## Not Tested
 - External displays
-- Airdrop (should work just fine)
 
 ## Not Working
 - Didn't find anything yet
@@ -52,6 +51,7 @@
 ### Kexts
 - AirportItlwm
 - AppleALC
+- BlueToolFixup
 - BrightnessKeys (couldn't make it work yet)
 - CtlnaAHCIPort (for unsupported SATA drives)
 - IntelBluetoothFirmware
